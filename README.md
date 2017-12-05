@@ -7,7 +7,7 @@ Create tests for api local using json-server (https://github.com/typicode/json-s
 This project uses Mocha(https://mochajs.org/) and Chai(http://chaijs.com/) for the test
 
 ### Project Setup
-For execute the project, run npm install for get the necessary libraries.
-After that execute in a terminal npm start for execute the json server.
+For execute the project, run **npm install** for get the necessary libraries.
+After that execute in a terminal **npm start** for execute the json server.
 ### Running Tests
-To run tests, simply run "npm test".
+To run tests, simply run **npm test**.
