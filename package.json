@@ -1,0 +1,24 @@
+{
+  "name": "fake-api",
+  "version": "1.0.0",
+  "description": "Olx Challenge - API Testing",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --timeout 100000",
+    "start": "json-server --watch fake_api/endpoints.json"
+  },
+  "keywords": [
+    "api", "fake-rest", "mocha", "chai"
+  ],
+  "author": "Weslei Dias",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-http": "^3.0.0",
+    "json-server": "^0.12.1",
+    "mocha": "^4.0.1"
+  }
+}
